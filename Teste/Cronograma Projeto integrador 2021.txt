@@ -1,0 +1,53 @@
+Tópicos da reunião 22/02/2021
+
+1 - Linguagem trocar? (PHP e JAVA)
+	1.1 Vantagens e desvantagens de cada linguagem
+1 - DECISÃO: Continuar em PHP, porém começar um novo projeto do zero se baseando nos códigos que já temos
+
+2 - Banco de dados(MySQL ou PostgreSQL)
+	2.1 Vantagens e desvantagens de cada banco
+2 - DECISÃO: Escolher Mysql pq tem mais tutoriais explicando na internet
+
+3 - Fazer recortes? Deixar mais Simples?
+3 - DECISÃO: Deixar interface mais simples
+
+4 - Calendário de desenvolvimento para nos organizar
+23 FEV : Laravel Virgem, Fazer banco de dados e tentar ligação(Comando Migrate)
+25 FEV : Arrumar o banco de dados de acordo com as correções feita pelos professores e começar a montar o banco
+26 FEV : Fazer banco de dados por COMPLETO
+2 MAR :
+5 MAR :
+9 MAR :
+12 MAR :
+16 MAR :
+19 MAR :
+23 MAR :
+26 MAR :
+30 MAR :
+2 ABR :
+6 ABR :
+
+
+5 - Rotina para desenvolver (Que dias vamos fazer tanto?)
+	5.1 - Fazer só quando todo mundo estiver junto?
+5 - DECISÃO: Terça e Sexta a partir das 15:00(Até terminarmos o que foi proposto para o dia)
+	     Quinta entre 15:00 e 16:50(Horário opcional para finalização)
+
+6 - Compartilhar o código por onde? (Drive, Git ou outro?)
+6 - DECISÃO: GitHub
+
+7 - Todos estão de acordo com as escolhas?
+7 - DECISÃO: Sim
+
+8 - Vantagens e Desvantagens das escolhas que fizemos
+8 - DECISÃO: Sim
+
+
+Apresentação: 16/04 (Terça-Feira)
+Entrega do PI: 09/04 (Sexta-feira)
+	12 de março - Acompanhamento de ES
+	Faltam 7 semanas - 45 dias
+
+VERSÕES DOS PROGRAMAS DECIDIDOS:
+PHP: 8.0.2
+MYSQL: 8.0.23

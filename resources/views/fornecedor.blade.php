@@ -16,7 +16,7 @@ $banco=mysqli_select_db($link, "laravel");
 ?>
 
 <form name="form" method=POST action = "/fornecedor" class="container" >
-<h2>Cadastro de Fornecedores Hoje</h2>
+<h2>Cadastro de Fornecedores</h2>
       <input type="hidden" name="_token" value="{{ csrf_token() }} ">
  
       <div class="form-group">
